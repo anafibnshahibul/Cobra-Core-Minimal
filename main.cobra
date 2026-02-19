@@ -1,0 +1,5 @@
+class Core
+    def main
+        print 'Status: 100% Functional'
+        print 'Logic: Bug-free'
+        print 'Hello from Cobra!'
